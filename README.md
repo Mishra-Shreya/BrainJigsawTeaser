@@ -22,8 +22,8 @@ This game provides students a fun-learning experience so that one can enjoy whil
 
 ##### Then you just open it with Unity. 
 
-##### (For eg. if your installation dir is --> "C:\User\Documents\BrainJigsawTeaser"
-##### Then the path to this folder should be the Unity project folder directory, so just browse to it on Unity and open it.)
+##### (For eg. if your installation dir is --> ```C:\Users\ABC\Documents\BrainJigsawTeaser```
+##### Then ```C:\Users\ABC\Documents\BrainJigsawTeaser``` should be the Unity project folder directory, so just browse to it on Unity and open it.)
 
 
 ### ScreenShots :
