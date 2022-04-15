@@ -18,12 +18,11 @@ This game provides students a fun-learning experience so that one can enjoy whil
 ##### First Clone the project
 ``` $ git clone https://github.com/Mishra-Shreya/BrainJigsawTeaser.git ```
 
-##### A folder with the project contents will be created in the current path.
+A folder with the project contents will be created in the current path.
+Then you just open it with Unity. 
 
-##### Then you just open it with Unity. 
-
-##### (For eg. if your installation dir is --> ```C:\Users\ABC\Documents\BrainJigsawTeaser```
-##### Then ```C:\Users\ABC\Documents\BrainJigsawTeaser``` should be the Unity project folder directory, so just browse to it on Unity and open it.)
+(For eg. if your installation dir is --> ```C:\Users\ABC\Documents\BrainJigsawTeaser```
+Then ```C:\Users\ABC\Documents\BrainJigsawTeaser``` should be the Unity project folder directory, so just browse to it on Unity and open it.)
 
 
 ### ScreenShots :
