@@ -5,7 +5,7 @@ This repo contains Source files of the educational game - '[The_BJT_Game](https:
 ### Play Game : https://mishra-shreya.github.io/The_BJT_Game/
 
 
-### Description :
+## Description :
 **[‘THE _BRAIN JIGSAW TEASER_ (BJT) GAME’](https://mishra-shreya.github.io/The_BJT_Game/index.html)** is an educational game developed on Unity using C# scripting language and Unity Engine’s inbuilt styling components and UI. It is built using Unity's WebGL and is hosted on GitHub.
 
 #### _This project is created as a part of School - PBL - Activity_
@@ -13,10 +13,12 @@ This repo contains Source files of the educational game - '[The_BJT_Game](https:
 This game provides students a fun-learning experience so that one can enjoy while learning. This game helps analyzing one’s technical, theoretical, and practical knowledge in EDC subject. It has various challenging and intriguing question which unlock puzzle pieces. After getting all the pieces of puzzle user must assemble the pieces to complete the puzzle, which will help students remembering the circuit diagram. Thus, after successful completion of the game, student or the user would gain the proper understanding of designing the BJT amplifier.
 
 
-### Installation:
+## Installation:
 
 ##### First Clone the project
-``` $ git clone https://github.com/Mishra-Shreya/BrainJigsawTeaser.git ```
+``` 
+git clone https://github.com/Mishra-Shreya/BrainJigsawTeaser.git 
+```
 
 A folder with the project contents will be created in your current path.
 Then you just open it with Unity. 
@@ -25,7 +27,7 @@ Then you just open it with Unity.
 Then ```C:\Users\ABC\Documents\BrainJigsawTeaser``` should be the Unity project folder directory, so just browse to it on Unity and open it.)
 
 
-### ScreenShots :
+## ScreenShots :
 ![image](https://user-images.githubusercontent.com/69296480/163382313-0b0e72a0-78c1-42cc-89ac-b3bdb96126ec.png)
 ![image](https://user-images.githubusercontent.com/69296480/163382356-be4fed09-b712-4ce4-848b-93be52117bc7.png)
 ![image](https://user-images.githubusercontent.com/69296480/163382371-b5872f1e-a3b2-4e58-9fb0-b28fbb058e92.png)
